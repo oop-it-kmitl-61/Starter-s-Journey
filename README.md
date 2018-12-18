@@ -27,7 +27,7 @@
 | :-------------: |:----------:|:--------:|:--------:|
 | 60070005    | นายกิตติ์รวี  | ผาสุขโรจน์สิน  | https://github.com/Nuengnakhap  |
 | 60070016     | นายไชยพงษ์  | นิธิพีรวัฒน์  | https://github.com/Sullvo1148  |
-| 60070034    | นายณัฐวุฒิ  | เตชะศรีบูรพา  | https://github.com/PrintTrd  |
+| 60070034    | นางสาวธิรดา  | ธีร์ธรรม  | https://github.com/PrintTrd  |
 
 ## Assistant Teacher
 - Instructor : ผศ.ดร.ธนิศา นุ่มนนท์
