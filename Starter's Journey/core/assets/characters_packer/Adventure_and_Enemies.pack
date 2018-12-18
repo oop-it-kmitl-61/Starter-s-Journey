@@ -1,0 +1,131 @@
+
+Adventure_and_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bee
+  rotate: false
+  xy: 0, 744
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+Dragon
+  rotate: false
+  xy: 1024, 744
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+adventurer-sword
+  rotate: false
+  xy: 0, 152
+  size: 385, 592
+  orig: 385, 592
+  offset: 0, 0
+  index: -1
+adventurer-normal
+  rotate: false
+  xy: 385, 337
+  size: 350, 407
+  orig: 350, 407
+  offset: 0, 0
+  index: -1
+adventurer-hand-combat
+  rotate: false
+  xy: 735, 374
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+Toucan
+  rotate: false
+  xy: 1120, 616
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+Bonus_Items
+  rotate: false
+  xy: 1120, 584
+  size: 512, 32
+  orig: 512, 32
+  offset: 0, 0
+  index: -1
+MoreEnemy
+  rotate: false
+  xy: 1120, 552
+  size: 512, 32
+  orig: 512, 32
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: false
+  xy: 1120, 536
+  size: 448, 16
+  orig: 448, 16
+  offset: 0, 0
+  index: -1
+LeafBug
+  rotate: false
+  xy: 0, 24
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+adventurer-bow
+  rotate: false
+  xy: 385, 189
+  size: 200, 148
+  orig: 200, 148
+  offset: 0, 0
+  index: -1
+Fireball
+  rotate: false
+  xy: 1632, 680
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+Iceball
+  rotate: false
+  xy: 1120, 472
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 735, 342
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+turtle
+  rotate: false
+  xy: 0, 0
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+Fire_Ground
+  rotate: false
+  xy: 256, 120
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 385, 173
+  size: 80, 16
+  orig: 80, 16
+  offset: 0, 0
+  index: -1
+goomba
+  rotate: false
+  xy: 1568, 536
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1

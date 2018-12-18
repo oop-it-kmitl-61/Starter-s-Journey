@@ -1,0 +1,52 @@
+
+Tets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tileset_gutter
+  rotate: false
+  xy: 1, 515
+  size: 594, 504
+  orig: 594, 504
+  offset: 0, 0
+  index: -1
+industrialv2
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+Tets2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+layers/skill-desc_0003_bg
+  rotate: false
+  xy: 1, 89
+  size: 272, 160
+  orig: 272, 160
+  offset: 0, 0
+  index: -1
+layers/skill-desc_0001_buildings
+  rotate: false
+  xy: 275, 99
+  size: 272, 150
+  orig: 272, 150
+  offset: 0, 0
+  index: -1
+layers/skill-desc_0000_foreground
+  rotate: false
+  xy: 549, 145
+  size: 272, 104
+  orig: 272, 104
+  offset: 0, 0
+  index: -1
+layers/skill-desc_0002_far-buildings
+  rotate: false
+  xy: 549, 1
+  size: 213, 142
+  orig: 213, 142
+  offset: 0, 0
+  index: -1
